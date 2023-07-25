@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eXCNWp9uqfp/2nI8dVaoo0sAA5TgAutttOW8rkc/F0pv+k2ZO4cl/MHaLY7cMjdB5YoBYB7Q07pvmCN0Tv72lg==",
+  "dgSpecHash": "H1E7z9jg5zZ82OVmoKWXpVSiE4BYxHBBpNjweJJw4+7veK12jE0jtuXrZryTMcklfVH7F/IRB1yFVaAj6vuIRQ==",
   "success": true,
-  "projectFilePath": "/home/apolm01-009/LuisCarlos/Fabricas/Core/Core.csproj",
+  "projectFilePath": "C:\\Users\\luisc\\Documents\\C#\\Fabricas\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

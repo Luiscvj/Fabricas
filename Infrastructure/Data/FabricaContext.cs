@@ -1,4 +1,5 @@
 using System.Reflection;
+using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data;
@@ -9,6 +10,10 @@ public class FabricaContext :DbContext
     {
 
     }
+
+
+    public DbSet<Articulo> Articulos {get; set;}
+    public DbSet<Pedido> Pedidos {get; set;}
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
